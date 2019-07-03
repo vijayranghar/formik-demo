@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="88" height="52" viewBox="0 0 88 52">
+    <defs>
+        <rect id="a" width="92" height="52" rx="8"/>
+        <linearGradient id="c" x1="36.011%" x2="80.672%" y1="95.532%" y2="41.15%">
+            <stop offset="0%" stop-color="#EBFFEF"/>
+            <stop offset="100%" stop-color="#FFF"/>
+        </linearGradient>
+        <linearGradient id="d" x1="71.906%" x2="50%" y1="10.858%" y2="52.636%">
+            <stop offset="0%" stop-color="#E5F5FF"/>
+            <stop offset="100%" stop-color="#FFF"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="matrix(-1 0 0 1 92 0)">
+        <mask id="b" fill="#fff">
+            <use xlink:href="#a"/>
+        </mask>
+        <g mask="url(#b)" opacity=".596">
+            <g transform="translate(0 -28.311)">
+                <ellipse cx="59.813" cy="42.782" fill="url(#c)" rx="42.587" ry="42.782"/>
+                <ellipse cx="37.204" cy="97.748" fill="url(#d)" rx="37.204" ry="37.374"/>
+            </g>
+        </g>
+    </g>
+</svg>

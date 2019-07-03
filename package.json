@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "classnames": "^2.2.6",
+    "emotion": "^10.0.14",
+    "formik": "^1.5.7",
+    "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1"
+    "react-emotion": "^9.2.12",
+    "react-scripts": "3.0.1",
+    "unify-react-mobile": "^3.4.1",
+    "yup": "^0.27.0"
   },
   "scripts": {
     "start": "react-scripts start",
