@@ -10,7 +10,7 @@
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-emotion": "^9.2.12",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "unify-react-mobile": "^3.4.1",
     "yup": "^0.27.0"
   },
